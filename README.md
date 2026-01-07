@@ -1,6 +1,6 @@
 # TensorFlow in Action
 
-![TensorFlow in Action cover](Cover.PNG)
+![TensorFlow in Action cover](Cover.png)
 
 This repository contains my personal chapter-by-chapter notes and experiments based on **_TensorFlow in Action_ by Thushan Ganegedara**.[file:1] The book is a practical, end-to-end guide to TensorFlow 2: from core tensors and Keras APIs to advanced deep learning architectures and production deployment with TensorBoard and TFX.[file:1] These notes are written in my own words to help me review concepts, remember key ideas, and quickly revisit important TensorFlow patterns without always reopening the book.[file:1]
 
