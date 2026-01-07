@@ -67,7 +67,7 @@ The book walks through a wide range of TensorFlow 2 and deep learning topics, in
 ## What This Repo Contains
 
 - Per-chapter Markdown summaries (starting with Part 1, Chapters 1–5), written as study notes rather than full reproductions of the book.  
-- Pointers to important figures (by label, e.g., `[Figure 4.4]`) that I capture from my own copy of the book for personal reference.  
+- Pointers to important figures (by label, e.g) that I capture from my own copy of the book for personal reference.  
 - Optionally, small code snippets or experiment notes inspired by the examples, adapted to my own TensorFlow 2 workflows.
 
 This repository is **not** a replacement for the original book. It is a learning log that documents what I have understood from *TensorFlow in Action* and supports future projects using TensorFlow 2.
